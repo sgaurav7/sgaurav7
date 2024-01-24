@@ -25,8 +25,8 @@ I thrive on optimizing workflows and enhancing system reliability through automa
 
 ## 🌐 **Let's Connect:**
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/siddhartha-gaurav)
-- Twitter: [Your Twitter Profile](https://twitter.com/Sidgaurav7)
-- Blog: [Check out my latest insights on Hashnode](https://sgaurav.hashnode.dev/)
+- LinkedIn: www.linkedin.com/in/siddhartha-gaurav
+- Twitter: https://twitter.com/Sidgaurav7
+- Blog: https://sgaurav.hashnode.dev/
 
 Feel free to reach out for collaboration, discussions, or if you just want to connect and share experiences! 🌟
